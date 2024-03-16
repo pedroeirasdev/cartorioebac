@@ -1,2 +1,2 @@
 # cartorioebac
-projeto do curso TI do zero ao pro da EBAC
+Projeto do curso TI do zero ao pro da EBAC
